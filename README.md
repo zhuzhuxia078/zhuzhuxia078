@@ -8,8 +8,8 @@ Here are some ideas to get you started:
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m currently learning **Javascript**
 - :snowflake: I'm a big fan of **React** and **Redux**
-- 👯 I’m looking to collaborate on magic geek people
-- :clock12: 
+- 👯 I’m looking to collaborate on magic people
+- :clock12: I'm in enthusiam with **Big Data**
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: zz635186056@gmail.com
