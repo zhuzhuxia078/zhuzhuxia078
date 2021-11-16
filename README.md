@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 🌱 I’m a **Javascript** developer
 - :snowflake: I'm a big fan of **React** and **Redux**
 - 👯 I’m looking to collaborate with magic people
-- :clock12: I'm in enthusiam with **Big Data**, especially **Realtional Database**. 
+- :clock12: I'm in enthusiam with **Big Data**, especially **Relational Database**. 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: zz635186056@gmail.com
