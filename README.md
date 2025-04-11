@@ -4,7 +4,7 @@
 **Welcom to ✨ qinyu's ✨ full stack world** .
 
 **Here's my LinkedIn to connect 😄**
-[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/qinyu-867152181/)](https://www.linkedin.com/in/qinyu-867152181/) 
+[![Linkedin: LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/qinyu-867152181/)](https://www.linkedin.com/in/qinyu-zhu/) 
 
 
 <!-- - 🔭 I’m currently working on  -->
