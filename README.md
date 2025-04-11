@@ -9,9 +9,9 @@
 
 <!-- - 🔭 I’m currently working on  -->
 - 🌱 I’m a **Javascript** developer
-- :snowflake: I'm a big fan of **React** and **Redux**
+- :snowflake: I like React and Redux.
 - 👯 I’m looking to collaborate with magic people
-- :clock12: I'm in enthusiam with **Big Data**, especially **Relational Database**. 
+- :clock12: I look forward to scaling my product. 
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ... -->
 - 📫 How to reach me: zz635186056@gmail.com
